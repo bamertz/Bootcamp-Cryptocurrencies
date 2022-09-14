@@ -11,6 +11,12 @@ The purpose of this project is using an unsupervised machine learning algorithm 
 
 ## Results
 
+![3D](Results/3DPlot.png)
 
+![Elbow](Results/ElbowCurve.png)
+
+![Scatter](Results/ScatterPlot.png)
+
+![Table](Results/Table.png)
 
 ## Summary
